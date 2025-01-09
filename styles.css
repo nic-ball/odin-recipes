@@ -16,7 +16,7 @@ body, li {
     color: white;
 }
 
-li {
+li, a {
     font-size: 18px;
     font-family: Jetbrains Mono, monospace, san-serif
 }
