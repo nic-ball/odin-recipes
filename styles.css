@@ -1,3 +1,7 @@
+* {
+outline: 2px solid red;
+}
+
 h1 {
     font-size: 24px
 }
