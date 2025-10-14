@@ -5,6 +5,7 @@ body,li {
 
 h1 {
     font-size: 300%;
+    text-align: center;
 }
 
 h1,h2 {
@@ -29,4 +30,9 @@ footer p {
     text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
+}
+
+#container {
+    width: 70%;
+    margin: auto;
 }
