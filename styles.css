@@ -22,6 +22,11 @@ li {
 }
 
 footer {
-    text-align: center;
     margin-top: 70px;
+}
+
+footer p {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
