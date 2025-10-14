@@ -1,25 +1,22 @@
-body {
-    flex-wrap: wrap;
-}
-h1 {
-    font-size: 24px
-}
-
-h2 {
-    font-size: 22px;
-}
-
-img {
-    width: 350px; 
-    height: auto;
-}
-
-body, li {
+body,li {
     background-color: rgb(10, 10, 10);
     color: white;
 }
 
-li, a {
+h1 {
+    font-size: 300%;
+}
+
+h1,h2 {
+    text-transform: uppercase;
+}
+
+img {
+    width: 100%; 
+    height: auto;
+}
+
+li {
     font-size: 18px;
     font-family: Jetbrains Mono, monospace, san-serif
 }
