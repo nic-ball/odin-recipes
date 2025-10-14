@@ -20,3 +20,8 @@ li {
     font-size: 18px;
     font-family: Jetbrains Mono, monospace, san-serif
 }
+
+footer {
+    text-align: center;
+    margin-top: 70px;
+}
