@@ -1,20 +1,39 @@
-# Recipes
-### Basic recipe website
+# Open Recipes
 
-A place to store recipes for referencing in the future.
+A simple recipe website project built as part of The Odin Project's foundations curriculum. This project demonstrates basic HTML structure, linking, generic content embedding (images), and lists.
 
-I am creating this project to work through all the skills I have but am a little bit rusty at the minute.
-Hoping that by the time it is complete I will have a solid foundation in Full Stack development.
+## Features
 
-**Created** ***/recipes***
-- fresh egg pasta dough
-- ragu
-- lasagna
-- bechamel sauce
+- **Home Page**: A landing page with links to various recipes.
+- **Recipe Pages**: Individual pages for each recipe including ingredients and steps.
+- **Images**: Visuals for the final dishes.
 
-**Created** ***/images***
+## Recipes Included
 
-Added images to use on the homepage and on the individual recipe pages.
+- [Classic Lasagna](./recipes/lasagna.html)
+- [Ragù](./recipes/ragu.html)
+- [Fresh Egg Pasta Dough](./recipes/pasta-dough.html)
+- [Bechamel Sauce](./recipes/bechamel.html)
 
-**Published** the `html` only page to github pages.
+## Technologies Used
 
+- **HTML5**: Semantic structure and linking.
+- **CSS3**: Basic styling (custom `styles.css`).
+
+## Getting Started
+
+To view this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd odin-recipes
+   ```
+3. Open `index.html` in your preferred web browser.
+
+## Credits
+
+Project idea and curriculum by [The Odin Project](https://www.theodinproject.com/).
